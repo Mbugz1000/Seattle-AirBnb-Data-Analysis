@@ -1,0 +1,35 @@
+TV|HDTV:TV
+Netflix|Amazon Prime|Roku|Chromecast|standard cable|premium cable|HBO|Apple TV|Cable TV:TV_Entertainment
+sound system|record player:Sound_System
+workspace:WorkSpace
+Wifi|ethernet:Internet
+Paid Parking|valet|Paid street parking|Paid parking garage:Paid_Parking
+free parking|carport|free driveway parking|free residential garage|free street parking:Free_Parking
+Clothing storage|hangers:Clothing_Storage
+bathrobes|linens|bed sheets|blankets:Linens
+housekeeping|laundry|drying rack|cleaning before checkout|iron:House_Keeping
+toiletries|slippers|bathroom essentials|Hot water|Shampoo|Conditioner|Body soap|Shower gel:Bathroom_Essentials
+bar|restuarant:Restuarant
+breakfast:Breakfast
+fitness|gym:Gym
+pool|sauna|hot tub:Pool_Sauna
+game console|ping pong|board games|bikes:Games
+children's books|baby monitor|changing table|baby bath|baby safefy gates|babysitter|crib|children's dinnerware|high chair:Children_Babies
+dryer|washer|laundramat:Dryer_Washer
+garden|backyard:Backyard_Garden
+beachfront|waterfront|lake access|beach essentials:Beach_Water_Front
+Pets:Pets
+^kitchen$|^full kitchen:Kitchen
+bread maker|rice maker|toaster|hot water kettle|microwave|Nespresso machine|pour-over coffee|coffee machine|Coffee maker|Stove|Oven|Refrigerator|Freezer|fridge:Kitchen_Appliances
+cooking basics|wine glasses|Dishes|Dining table|barbecue utensils:Cooking_Dishes
+host greets you:Host_Greeting
+Long term|cleaning products:Long_Term_Stay
+Indoor fireplace:Indoor_Fireplace
+outdoor shower|outdoor dining area|outdoor furniture|fire pit|balcony|patio|BBQ Grill:Outdoor
+AC Unit|air conditioning|ceiling fan|portable fans:Air_Conditioning
+Portable heater|radiant heating|central heating|heating:Heating
+window guards|safe|lock on bedroom door|outlet covers|extinguisher|smoke alarm|smart lock|fireplace guards|Lockbox|Security cameras|Keypad|Carbon monoxide alarm|Smoke alarm|first aid kit:Safety_Security_First_Aid
+concierge|building staff:Staff
+
+## Others
+mosquito net|trash compactor|ev charger|single level home|elevator|piano|private entrance|Luggage dropoff|room-darkening shades|essentials|Smoking:Others
