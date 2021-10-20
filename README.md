@@ -21,8 +21,8 @@ is therefore to complete the course-work of the mentioned program.
 The secondary aim of this project was to answer the 4 business questions related to AirBnB Seattle listings:
 1. Does becoming a verified host positively impact your monthly income or occupancy rate in Seattle?
 1. Does becoming a Super-Host positively impact your monthly income or occupancy rate in Seattle?
-1. Does close proximity to competition negatively impact your monthly income?
-1. What factors should influence the rate you set for your listing?
+1. Does proximity to competition negatively impact your monthly income?
+1. What are the key factors that influence the rate a host sets for their listing in Seattle?
 
 ## File Descriptions
 This project is has 2 primary folders: 
@@ -39,21 +39,22 @@ To interact with the project, take the following steps:
 1. Navigate to the directory of the project on the Anaconda Console
 1. Start up Jupyter Lab using the command `jupyter lab`
 1. Open the Analysis notebook from the jupyter notebook page
+1. Run all the cells to run the analysis.
 
 ## Results Summary
 The results of this analysis were as follows: 
-1. Does becoming a verified host positively impact your monthly income or occupancy rate in Seattle? 
-   - No. It does not positively impact your monthly AirBnb income in Seattle
-1. Does becoming a Super-Host positively impact your monthly income or occupancy rate in Seattle? 
-   - Yes. It positively impacts your monthly income by $900 on average in Seattle
-1. Does close proximity to competition negatively impact your monthly income? 
-   - Yes. It negatively impacts your monthly income by $300 on average in Seattle
-1. What factors should influence the rate you set for your listing? 
+- Question 1:
+   - No. It does not positively impact your monthly AirBnb income
+- Question 2:
+   - Yes. It positively impacts your monthly income by $900 on average
+- Question 3:
+   - Yes. It negatively impacts your monthly income by $300 on average
+- Question 4:
    - The top 5 listing based factors that should be considered are as follows: 
         1. No. of guests that you can accommodate
         1. Location of your listing
         1. Competition in your area
-        1. Kitchen appliances that you offer
+        1. Kitchen appliances that you make available
         1. Type of property
 
 ## Licensing, Authors & Acknowledgements
