@@ -1,5 +1,5 @@
-# Seattle AirBNB Data
-## Installation
+# Seattle AirBNB Data Analylsis
+## Installations
 Run the following command to set up the environment for this project. 
 
 ```
@@ -24,7 +24,7 @@ The secondary aim of this project was to answer the 4 business questions related
 1. Does close proximity to competition negatively impact your monthly income?
 1. What factors should influence the rate you set for your listing?
 
-## How to Interact with Project
+## File Descriptions
 This project is has 2 primary folders: 
 - **data** : Data Folder. It contains 2 folders
     - **processed**: Output of the analysis
@@ -33,6 +33,7 @@ This project is has 2 primary folders:
     - **Analysis Notebook**: Jupyter notebook where the analysis was performed
     - **multiprocessing_fn**: A python module that is imported by the notebook
 
+## How to Interact with Project
 To interact with the project, take the following steps:
 1. Activate the _project_1_udacity_ environment on the Anaconda console
 1. Navigate to the directory of the project on the Anaconda Console
