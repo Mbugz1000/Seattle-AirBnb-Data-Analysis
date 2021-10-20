@@ -22,7 +22,7 @@ The secondary aim of this project was to answer the 4 business questions related
 1. Does becoming a verified host positively impact your monthly income or occupancy rate in Seattle?
 1. Does becoming a Super-Host positively impact your monthly income or occupancy rate in Seattle?
 1. Does proximity to competition negatively impact your monthly income?
-1. What are the key factors that influence the rate a host sets for their listing in Seattle?
+1. What factors should influence the rate you set for your listing?
 
 ## File Descriptions
 This project is has 2 primary folders: 
